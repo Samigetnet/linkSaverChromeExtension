@@ -1,0 +1,120 @@
+body{
+    margin: 10px;
+    padding: 10px;
+    min-width: auto;
+    background-color: rgb(188, 206, 206);
+   
+}div{
+    width: 500px;
+    height: auto;
+    background-color:#0e2f44;
+    text-align: center;
+    border-radius: 13px;
+    margin:10px
+}/* #div2{
+    width: 500px;
+    height: auto;
+    background-color:black;
+    text-align: center;
+    border-radius: 13px;
+} */
+#input-btn{
+    width: 100px;
+    height: 40px;
+    margin-left:-310px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: none;
+    padding: 0;
+    font-size: 16px;
+    cursor: pointer;
+    text-align:center;
+    border-radius: 3px;
+    background-color:#ffd700;
+    color:#000000;
+    font-weight: bold;
+}#input-btn:hover{
+    background-color: #f9f5f5;
+    color: #000000;
+    transition: .5s ease;
+}#save-btn{
+
+    width: 100px;
+    height: 40px;
+    margin-left:150px;
+    display:block;
+    margin-top: -50px;
+    margin-bottom: 10px;
+    border: none;
+    padding: 0;
+    font-size: 16px;
+    cursor: pointer;
+    text-align:center;
+    border-radius: 3px;
+    background-color:#ffd700;
+    color:00000;
+    font-weight: bold;
+
+
+
+}#save-btn:hover{
+    background-color: #f9f5f5;
+    color: #000000;
+    transition: .5s ease;
+
+}#delete-btn{
+    width: 100px;
+    height: 40px;
+    margin-left:260px;
+    display:block;
+    margin-top: -68px;
+    margin-bottom: 10px;
+    border: none;
+    padding: 0;
+    font-size: 16px;
+    cursor: pointer;
+    text-align:center;
+    border-radius: 3px;
+    background-color: #e40909;
+    color:#f2f4f2;
+    font-weight: bold;
+
+}#delete-btn:hover{
+    background-color: #f9f5f5;
+    color: #000000;
+    transition: .5s ease;
+
+}input{
+    width: 80%;
+    height: 40px;
+    margin-left: 0px;
+    margin-top: 15px;
+    border: none;
+    padding-left: 10px;
+    padding-top: 5px;
+    font-size: 12px;
+    cursor: pointer;
+    text-align: left;
+    border-radius: 12px;
+    background-color: yellow;
+    color:rgb(12, 1, 1);
+    font-weight: bold;    
+}input:hover{
+    background-color: #f5f7f5;
+}
+ul{
+  margin-top: 10px;
+  list-style: none;
+ text-align: left;
+ 
+  
+}li{
+    margin-top: 5px;
+    margin-left: 10px;
+
+}a{
+    color: #edf3f0;
+    text-decoration: none;
+    font-weight: bold;
+    font-weight: bold;
+}
